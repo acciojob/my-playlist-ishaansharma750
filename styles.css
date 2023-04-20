@@ -1,37 +1,26 @@
 /*  your css code here. If applicable */
-.container{
-	background-color:#cccccc;
+/* https://storage.googleapis.com/acciojob-open-file-collections/my-playlist.png */
+
+body{
+	text-align: center;
+	background-color: #cccccc;
 }
-h2, h4{
-	text-align:center;
-	padding:5px;
-}
+
+
 .player_one{
-	background-color:white;
-	width:90%;
-	height:20%;
-	border:1px solid black;
-	margin:auto;
-	padding:10px;
-	border-radius:5px;
+	text-align: left;
+	border: 1px solid;
+	padding: 20px;
+	background-color: white;
 }
-a{
-	text-decoration:none;
-	color:black;
-}
+
 .player_two{
-	padding:15px;
-	border: 1px solid black;
-	border-radius:5px;
-	width:50%;
-	height:60%;
-	margin:auto;
-/* 	display:block; */
-	background-color:white;
-}
-video{
-	width:90%;
-	height:50%;
-	margin:auto;
-	display:block;
+	background-color: white;
+	border: 1px solid;
+	padding: 10px;
+	margin: 0px;
+	border-radius: 5px;
+	border-width: 1px;
+	margin-left: 150px;
+	margin-right: 150px;
 }
